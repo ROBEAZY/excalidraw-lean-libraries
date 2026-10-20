@@ -135,13 +135,14 @@ def write_library(path):
 
 def write_preview(path, cols):
     """Scene with every item in a grid plus grey captions (captions are not library content).
-    Each row is as tall as its tallest item, so small items do not float in empty cells."""
+    Each row is sized to its own items: as wide as its widest item and as tall as its tallest,
+    so rows of small symbols stay compact next to rows of large templates."""
     boxes = [bbox(els) for _, els in ITEMS]
-    cell_w = max(b[2] - b[0] for b in boxes) + 80
     scene = []
     oy = 0
     for r0 in range(0, len(ITEMS), cols):
         row = list(zip(ITEMS[r0:r0 + cols], boxes[r0:r0 + cols]))
+        cell_w = max(b[2] - b[0] for _, b in row) + 80
         row_h = max(b[3] - b[1] for _, b in row) + 70
         for ci, ((name, els), (minx, miny, maxx, maxy)) in enumerate(row):
             ox = ci * cell_w

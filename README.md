@@ -64,6 +64,29 @@ text; edit labels in place or ungroup to rearrange.
 - Impact / effort matrix
 - A3 problem-solving template (seven boxes)
 
+## ASME flow process chart
+
+`libraries/asme-flow-process-chart.excalidrawlib`. The five ASME process
+chart symbols used in method study and process analysis, plus the chart
+templates built from them.
+
+![ASME flow process chart preview](previews/asme-flow-process-chart.jpg)
+
+- Operation (circle), also numbered
+- Transport (arrow)
+- Inspection (square), also numbered
+- Delay (D)
+- Storage (triangle)
+- Combined operation and inspection
+- ASME symbol legend
+- Flow process chart template: header block, eight rows with the five
+  symbols in each row ready to be joined by a flow line, distance, time and
+  remarks columns
+- Flow process chart summary: present vs proposed counts per activity,
+  distance and time
+- Operation process chart column: material entry line, numbered operations
+  and an inspection on a vertical flow line
+
 ## Previews
 
 `previews/*.excalidraw` are ordinary Excalidraw scenes with every item laid out
