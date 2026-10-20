@@ -128,9 +128,11 @@ every text binding resolving inside its item.
 
 ## Contributing
 
-Issues and pull requests are welcome. Keep items generic, in English, grouped,
-and useful to more than one person. Libraries from this repo are also submitted
-to the public Excalidraw catalogue at https://libraries.excalidraw.com.
+Issues and pull requests are welcome; see `CONTRIBUTING.md`. Keep items
+generic, in English, grouped, and useful to more than one person. Libraries
+from this repo are also submitted to the public Excalidraw catalogue at
+https://libraries.excalidraw.com; `PUBLISHING.md` walks through that
+submission step by step.
 
 ## License
 
