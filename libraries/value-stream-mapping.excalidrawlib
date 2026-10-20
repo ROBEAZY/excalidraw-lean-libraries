@@ -36,7 +36,7 @@
               "id": "rlfUmylYyaZZquZYAxK9"
             }
           ],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false
         },
@@ -65,7 +65,7 @@
           "versionNonce": 975662955,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "Process",
@@ -80,7 +80,7 @@
         }
       ],
       "id": "xRJ7OQb7j3XFwKVS1BdF",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Process"
     },
     {
@@ -116,7 +116,7 @@
               "id": "5ra3M-_Xf0QgK18qiyhy"
             }
           ],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false
         },
@@ -145,7 +145,7 @@
           "versionNonce": 1686316348,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "Process",
@@ -188,7 +188,7 @@
               "id": "Al7JYS7e2Rv1Wusniibc"
             }
           ],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false
         },
@@ -217,7 +217,7 @@
           "versionNonce": 1106919679,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "C/T =\nC/O =\nUptime =\nShifts =\nEPE =",
@@ -232,7 +232,7 @@
         }
       ],
       "id": "1ssy64mF-qGjBpggLGqS",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Process with data box"
     },
     {
@@ -268,7 +268,7 @@
               "id": "MFikTMLwvqjYZnLOLWUN"
             }
           ],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false
         },
@@ -297,7 +297,7 @@
           "versionNonce": 954362014,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "C/T =\nC/O =\nUptime =\nShifts =\nEPE =",
@@ -312,7 +312,7 @@
         }
       ],
       "id": "jtT-Zk28kHSxCqKczjCu",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Data box"
     },
     {
@@ -343,7 +343,7 @@
           "versionNonce": 924423861,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -439,7 +439,7 @@
           "versionNonce": 1104285129,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "Supplier /\nCustomer",
@@ -454,7 +454,7 @@
         }
       ],
       "id": "I0tMXqK3jkg1NNbXyK07",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Outside source (supplier / customer)"
     },
     {
@@ -485,7 +485,7 @@
           "versionNonce": 417180129,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -537,7 +537,7 @@
           "versionNonce": 526218624,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "I",
@@ -575,7 +575,7 @@
           "versionNonce": 407623494,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "300 pcs\n1.5 days",
@@ -590,7 +590,7 @@
         }
       ],
       "id": "Ua8AgRPFJMLrqSQunRxV",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Inventory"
     },
     {
@@ -621,7 +621,7 @@
           "versionNonce": 1617819040,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -673,7 +673,7 @@
           "versionNonce": 1678703175,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "Safety\nstock",
@@ -688,7 +688,7 @@
         }
       ],
       "id": "rY4fgvXlmufl7QmHbax1",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Safety / buffer stock"
     },
     {
@@ -719,7 +719,7 @@
           "versionNonce": 415355210,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -772,7 +772,7 @@
         }
       ],
       "id": "qUjStUMq-BsjW4joc_9U",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Supermarket"
     },
     {
@@ -803,7 +803,7 @@
           "versionNonce": 1119904907,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -847,7 +847,7 @@
           "versionNonce": 318726649,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -891,7 +891,7 @@
           "versionNonce": 375782368,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "FIFO",
@@ -929,7 +929,7 @@
           "versionNonce": 439917201,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -951,7 +951,7 @@
         }
       ],
       "id": "Tqi5R6tPq6l6WTdpiKd1",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "FIFO lane"
     },
     {
@@ -982,7 +982,7 @@
           "versionNonce": 662657223,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -1027,7 +1027,7 @@
         }
       ],
       "id": "v1i0IPCmOwcbgblCRbIl",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Push arrow"
     },
     {
@@ -1058,7 +1058,7 @@
           "versionNonce": 610192473,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -1103,7 +1103,7 @@
         }
       ],
       "id": "PQjv7eoHiR84r6krS2n9",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Shipment arrow (to customer)"
     },
     {
@@ -1134,7 +1134,7 @@
           "versionNonce": 910333756,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false
         },
@@ -1163,7 +1163,7 @@
           "versionNonce": 1834996549,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -1225,7 +1225,7 @@
           "versionNonce": 995695915,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false
         },
@@ -1256,7 +1256,7 @@
           "versionNonce": 1389581670,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false
         },
@@ -1285,7 +1285,7 @@
           "versionNonce": 1099061071,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "Daily",
@@ -1300,7 +1300,7 @@
         }
       ],
       "id": "EVdguCJmxZAdJo82x_66",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Truck shipment"
     },
     {
@@ -1333,7 +1333,7 @@
           "versionNonce": 1276924503,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -1384,13 +1384,13 @@
           "versionNonce": 371204585,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false
         }
       ],
       "id": "fDetBfD8_gLyQvGJDkCY",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Material pull (withdrawal)"
     },
     {
@@ -1423,7 +1423,7 @@
           "versionNonce": 1522958427,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false
         },
@@ -1452,7 +1452,7 @@
           "versionNonce": 1911897373,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -1474,7 +1474,7 @@
         }
       ],
       "id": "SD4-aUymA0ie498mdFgH",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Sequenced pull ball"
     },
     {
@@ -1507,7 +1507,7 @@
           "versionNonce": 1520104375,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false
         },
@@ -1538,7 +1538,7 @@
           "versionNonce": 340579090,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -1586,7 +1586,7 @@
           "versionNonce": 789719992,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -1607,7 +1607,7 @@
         }
       ],
       "id": "NlGXTLrc8lEn-PDso3I8",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Operator"
     },
     {
@@ -1638,7 +1638,7 @@
           "versionNonce": 1965353045,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -1690,7 +1690,7 @@
           "versionNonce": 1309960008,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "Cell",
@@ -1705,7 +1705,7 @@
         }
       ],
       "id": "YTSItgPN3fssoQojjb_F",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Work cell"
     },
     {
@@ -1736,7 +1736,7 @@
           "versionNonce": 1614242742,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -1758,7 +1758,7 @@
         }
       ],
       "id": "WECHeP5CwAeZW7f4h3n5",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Manual information arrow"
     },
     {
@@ -1789,7 +1789,7 @@
           "versionNonce": 1128798533,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -1827,7 +1827,7 @@
         }
       ],
       "id": "Uh6KAcUJpbhV2Ohh4gss",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Electronic information arrow"
     },
     {
@@ -1858,7 +1858,7 @@
           "versionNonce": 1078696124,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -1880,7 +1880,7 @@
         }
       ],
       "id": "vJyfnIjhWzhqA3B-PVxc",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Kanban path (dashed)"
     },
     {
@@ -1916,7 +1916,7 @@
               "id": "3coCAl3x-qVRL1BrR99I"
             }
           ],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false
         },
@@ -1945,7 +1945,7 @@
           "versionNonce": 1995062130,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "Production\nControl",
@@ -1960,7 +1960,7 @@
         }
       ],
       "id": "Aih2vOwTT1ga85As5g1d",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Production control"
     },
     {
@@ -1996,7 +1996,7 @@
               "id": "ubUs_VFRoC7pU0Zv7Xrn"
             }
           ],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false
         },
@@ -2025,7 +2025,7 @@
           "versionNonce": 394302415,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "Daily\nschedule",
@@ -2040,7 +2040,7 @@
         }
       ],
       "id": "nt_LU435p9AzJzxgoScC",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Schedule"
     },
     {
@@ -2071,7 +2071,7 @@
           "versionNonce": 1407283325,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -2131,7 +2131,7 @@
           "versionNonce": 165206613,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "P",
@@ -2146,7 +2146,7 @@
         }
       ],
       "id": "fUFTzt0nx5B3O1n59-qx",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Production kanban"
     },
     {
@@ -2177,7 +2177,7 @@
           "versionNonce": 376137539,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -2237,7 +2237,7 @@
           "versionNonce": 1012684666,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "W",
@@ -2252,7 +2252,7 @@
         }
       ],
       "id": "np0cLHFzpIrZHKw4uaS3",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Withdrawal kanban"
     },
     {
@@ -2283,7 +2283,7 @@
           "versionNonce": 1237493089,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -2335,7 +2335,7 @@
           "versionNonce": 670454970,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "S",
@@ -2350,7 +2350,7 @@
         }
       ],
       "id": "-5za-dNA9O69lekXdbVT",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Signal kanban"
     },
     {
@@ -2381,7 +2381,7 @@
           "versionNonce": 789087352,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -2441,7 +2441,7 @@
           "versionNonce": 1298338110,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -2501,7 +2501,7 @@
           "versionNonce": 965925508,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -2538,7 +2538,7 @@
         }
       ],
       "id": "NtSgW4yFN2vHbnjRGJeg",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Kanban arriving in batches"
     },
     {
@@ -2569,7 +2569,7 @@
           "versionNonce": 816907539,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -2613,7 +2613,7 @@
           "versionNonce": 361331270,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false
         },
@@ -2642,13 +2642,13 @@
           "versionNonce": 197685759,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false
         }
       ],
       "id": "EjxKNjpWfdjlTK7dr2aD",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Kanban post"
     },
     {
@@ -2684,7 +2684,7 @@
               "id": "zGf2wDJW2ZCBdVVBGIaV"
             }
           ],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false
         },
@@ -2713,7 +2713,7 @@
           "versionNonce": 395773638,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "OXOX",
@@ -2728,7 +2728,7 @@
         }
       ],
       "id": "lmJ5LAAZP49LRzRzvgM0",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Load levelling (heijunka) box"
     },
     {
@@ -2761,7 +2761,7 @@
           "versionNonce": 268908008,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false
         },
@@ -2792,7 +2792,7 @@
           "versionNonce": 1728949591,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false
         },
@@ -2821,7 +2821,7 @@
           "versionNonce": 79570765,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -2865,7 +2865,7 @@
           "versionNonce": 113563732,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -2909,7 +2909,7 @@
           "versionNonce": 497234564,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -2930,7 +2930,7 @@
         }
       ],
       "id": "E491_5B0SSFf2F68kXeB",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Go-see scheduling"
     },
     {
@@ -2961,7 +2961,7 @@
           "versionNonce": 1656700940,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -3113,7 +3113,7 @@
           "versionNonce": 1982555446,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "Kaizen",
@@ -3128,7 +3128,7 @@
         }
       ],
       "id": "0au8Xp6Kwn9S6xg28RIo",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Kaizen burst"
     },
     {
@@ -3159,7 +3159,7 @@
           "versionNonce": 1374921265,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "points": [
@@ -3215,7 +3215,7 @@
           "versionNonce": 1677434745,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "2 days",
@@ -3253,7 +3253,7 @@
           "versionNonce": 806322985,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "45 sec",
@@ -3268,7 +3268,7 @@
         }
       ],
       "id": "9xrg3CVtZac-P3LFcM6q",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Timeline segment"
     },
     {
@@ -3304,7 +3304,7 @@
               "id": "LoxSJ6DUQaEyZ5sjt2rM"
             }
           ],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false
         },
@@ -3333,7 +3333,7 @@
           "versionNonce": 1748735357,
           "isDeleted": false,
           "boundElements": [],
-          "updated": 1792490592561,
+          "updated": 1760947200000,
           "link": null,
           "locked": false,
           "text": "Lead time = 12 days\nVA time = 180 sec",
@@ -3348,7 +3348,7 @@
         }
       ],
       "id": "SUrDSNsEs1NhXsHFdlsU",
-      "created": 1792490592561,
+      "created": 1760947200000,
       "name": "Timeline totals"
     }
   ]

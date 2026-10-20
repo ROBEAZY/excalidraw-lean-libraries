@@ -5,9 +5,9 @@ Element fields follow the Excalidraw element schema. Fields that are omitted
 are filled with defaults by Excalidraw's restore step on load, but we write
 the full set so the files look like what the app itself exports.
 """
-import json, math, os, random, string, time
+import json, math, os, random, string
 
-NOW = int(time.time() * 1000)
+NOW = 1760947200000  # fixed (2026-10-20T08:00Z) so rebuilds are byte-for-byte reproducible
 STROKE = "#1e1e1e"
 FONT = 5          # Excalifont (hand-drawn default). 1 = legacy Virgil.
 ITEMS = []        # (name, [elements]) in registration order

@@ -1,0 +1,20 @@
+name: Validate libraries
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  rebuild-and-diff:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Rebuild every library from its generator
+        run: |
+          for f in tools/build_*.py; do python "$f" .; done
+      - name: Generated files must match the committed ones
+        run: git diff --exit-code -- libraries previews/*.excalidraw
