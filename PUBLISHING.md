@@ -78,3 +78,16 @@ fork `excalidraw/excalidraw-libraries`, add
 next to it, append an entry to `libraries.json` (name, description, authors,
 source, preview, created, updated, version 2, a unique id), and open the PR.
 The in-app flow does all of this for you, so prefer it.
+
+## Submissions
+
+| Library | Submitted | Pull request |
+| --- | --- | --- |
+| Value Stream Mapping (Lean) | 2026-10-20 | https://github.com/excalidraw/excalidraw-libraries/pull/2944 |
+| Lean Six Sigma Charts | 2026-10-20 | https://github.com/excalidraw/excalidraw-libraries/pull/2945 |
+| ASME Flow Process Chart | 2026-10-20 | https://github.com/excalidraw/excalidraw-libraries/pull/2946 |
+| Lean Workplace | 2026-10-20 | https://github.com/excalidraw/excalidraw-libraries/pull/2947 |
+
+All four were submitted through the in-app Publish flow with author
+Robin Lawrence and GitHub username ROBEAZY. Watch the pull requests for
+reviewer comments; a merged one appears at https://libraries.excalidraw.com.
