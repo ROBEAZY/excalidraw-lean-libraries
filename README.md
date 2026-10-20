@@ -87,6 +87,26 @@ templates built from them.
 - Operation process chart column: material entry line, numbered operations
   and an inspection on a vertical flow line
 
+## Lean workplace
+
+`libraries/lean-workplace.excalidrawlib`. Visual management and shop-floor
+lean tools.
+
+![Lean workplace preview](previews/lean-workplace.jpg)
+
+- Kanban board with To do / Doing (WIP) / Done columns and sticky notes
+- Sticky notes in yellow, pink and blue
+- Andon light stack
+- 5S red tag
+- 5S cycle (Sort, Set in order, Shine, Standardize, Sustain)
+- RAG status indicators
+- Spaghetti diagram paths in red and blue, with start marker
+- Workstation with operator position
+- Operator balance chart (cycle time per operator against takt time)
+- Standard work combination sheet with a time scale
+- Hour-by-hour production board
+- Safety cross with 31 day cells
+
 ## Previews
 
 `previews/*.excalidraw` are ordinary Excalidraw scenes with every item laid out
