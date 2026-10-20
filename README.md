@@ -11,17 +11,23 @@ want to restyle a template.
 
 ## Install
 
-Click a link below while excalidraw.com is open in your browser, or paste it
-into the address bar. Excalidraw asks you to confirm, then adds the items to
-your library.
+1. Download the library file you want:
+   - [value-stream-mapping.excalidrawlib](https://raw.githubusercontent.com/ROBEAZY/excalidraw-lean-libraries/main/libraries/value-stream-mapping.excalidrawlib) (30 items)
+   - [lean-six-sigma-charts.excalidrawlib](https://raw.githubusercontent.com/ROBEAZY/excalidraw-lean-libraries/main/libraries/lean-six-sigma-charts.excalidrawlib) (9 items)
+2. Open [excalidraw.com](https://excalidraw.com) and click the **Library**
+   button (book icon, top right).
+3. Open the panel's menu (three dots next to the search box) and choose
+   **Open**, then pick the downloaded file. The items are added to your
+   personal library and persist in the browser.
 
-| Library | Items | Install |
-| --- | --- | --- |
-| Value Stream Mapping | 30 | [Add to Excalidraw](https://excalidraw.com/?addLibrary=https%3A%2F%2Fraw.githubusercontent.com%2FROBEAZY%2Fexcalidraw-lean-libraries%2Fmain%2Flibraries%2Fvalue-stream-mapping.excalidrawlib) |
-| Lean Six Sigma charts | 9 | [Add to Excalidraw](https://excalidraw.com/?addLibrary=https%3A%2F%2Fraw.githubusercontent.com%2FROBEAZY%2Fexcalidraw-lean-libraries%2Fmain%2Flibraries%2Flean-six-sigma-charts.excalidrawlib) |
+The same files work in the Obsidian Excalidraw plugin and in self-hosted
+Excalidraw.
 
-Or download the `.excalidrawlib` file from `libraries/` and use **Open** in the
-library panel.
+Excalidraw's one-click `addLibrary` links only accept files hosted on
+excalidraw.com or in the official `excalidraw/excalidraw-libraries` repo, so
+there is no one-click link for this repo. Once a library here is accepted into
+the public catalogue at https://libraries.excalidraw.com, install it from
+there with one click.
 
 ## Value Stream Mapping
 
